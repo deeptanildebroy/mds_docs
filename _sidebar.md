@@ -1,5 +1,3 @@
 - [Home](README.md)
-- [Components](component.md)
+- [Components](components.md)
 - [Schemas](schemas.md)
-
-
