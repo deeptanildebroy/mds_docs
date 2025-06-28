@@ -6,6 +6,10 @@ The **Metro DTW Booking App** is a web-based taxi reservation platform built wit
 
 ---
 
+- [Home](README.md)
+- [Components](components.md)
+- [Schemas](schemas.md)
+
 ## Tech Stack
 
 ### Frontend
